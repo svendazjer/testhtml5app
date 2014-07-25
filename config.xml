@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
     xmlns:gap	= "http://phonegap.com/ns/1.0"
-    id			= "com.intus.saludfamcl"
-	versionCode = "10070"
-    version		= "1.0.7">
+    id			= "com.intus.testhtml5app"
+	versionCode = "10000"
+    version		= "1.0.0">
 
-<name>Saludfam</name>
+<name>testhml5app</name>
 
 <description>
-Programa de Salud y Medicina Familiar
+
 </description>
 
 <author href="http://www.intussoluciones.com" email="soporte@intus.cl">
-INTUS Desarrollos Moviles
+
 </author>
 <!--
 <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
